@@ -45,8 +45,8 @@ The project requires creation of HTML file, CSS file, gitignore file and a Text 
 👤 Vincent Abuya 
 
 - GitHub: [@githubhandle](https://github.com/vabuyia)
--Twitter: @abuyiag
--Linkedln: linkedin.com/in/vincent-abuya-a1940555
+- Twitter: @abuyiag
+
 
 
 ## 🤝 Contributing
